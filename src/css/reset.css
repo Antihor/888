@@ -25,10 +25,17 @@ a {
 
 button {
   cursor: pointer;
+    width: 72px;
+   padding: 8px;
+   border-radius: 8px;
+   border-color: transparent;
+      background-color: #3204e9;
+      color: antiquewhite;
 }
 
 img {
   display: block;
   max-width: 100%;
   height: auto;
+
 }
